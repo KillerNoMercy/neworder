@@ -8,6 +8,15 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
     password: zsl317309
+  boot:
+    admin:
+      client:
+        url: http://localhost:4444
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info
 eureka:
   client:
     service-url:

@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      uri: https://github.com/KillerNoMercy/neworder.git
+      profile: dev
+      name: admin
+      label: master

@@ -10,6 +10,15 @@ spring:
     password: zsl317309
   redis:
     host: localhost
+  boot:
+    admin:
+      client:
+        url: http://localhost:4444
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info
 eureka:
   client:
     service-url:

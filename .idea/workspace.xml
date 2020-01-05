@@ -2,10 +2,58 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc5c835d-d39f-4602-8cc3-4034fc8ef48a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/respo/dev/eureka-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_codecentric_spring_boot_admin_client_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_codecentric_spring_boot_admin_server_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_codecentric_spring_boot_admin_server_cloud_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_codecentric_spring_boot_admin_server_ui_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_codecentric_spring_boot_admin_starter_client_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_codecentric_spring_boot_admin_starter_server_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http2_4_1_43_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_43_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_43_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_43_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_43_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_43_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_netty_reactor_netty_0_9_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jolokia_jolokia_core_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_reactor_netty_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_webflux_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webflux_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_synchronoss_cloud_nio_multipart_parser_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_synchronoss_cloud_nio_stream_storage_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/src/main/java/com/fan/neworderadmin/NeworderAdminApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/src/test/java/com/fan/neworderadmin/NeworderAdminApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/respo/dev/admin-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/neworder-order-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order/neworder-order-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/neworder-order-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/order/neworder-order-server/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/neworder-product-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/product/neworder-product-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/neworder-product-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/product/neworder-product-server/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/neworder-user-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/user/neworder-user-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/neworder-user-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/user/neworder-user-server/src/main/resources/bootstrap.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +106,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -171,6 +220,13 @@
       <option name="MAIN_CLASS_NAME" value="com.fan.neworderUserClient.feign.UserClientTest" />
       <option name="METHOD_NAME" value="checkToken" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NeworderAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fan.neworderadmin.NeworderAdminApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -358,6 +414,7 @@
       <item itemvalue="Spring Boot.ProductApplication" />
       <item itemvalue="Spring Boot.UserApplication" />
       <item itemvalue="Spring Boot.NeworderConfigApplication" />
+      <item itemvalue="Spring Boot.NeworderAdminApplication" />
     </list>
     <recent_temporary>
       <list>
@@ -405,22 +462,25 @@
       <workItem from="1578011482367" duration="31922000" />
       <workItem from="1578104959024" duration="8658000" />
       <workItem from="1578122203384" duration="13496000" />
-      <workItem from="1578189740537" duration="1407000" />
+      <workItem from="1578189740537" duration="2923000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="440" y="190" key="#Notifications" timestamp="1578104993942">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="440" y="190" key="#Notifications/0.0.1680.1050@0.0.1680.1050" timestamp="1578104993942" />
-    <state x="440" y="190" key="#Project_Structure" timestamp="1578190335360">
+    <state x="440" y="190" key="#Project_Structure" timestamp="1578191924228">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="190" key="#Project_Structure/0.0.1680.1050@0.0.1680.1050" timestamp="1578190335360" />
+    <state x="440" y="190" key="#Project_Structure/0.0.1680.1050@0.0.1680.1050" timestamp="1578191924228" />
     <state x="578" y="287" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1578016327225">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -509,10 +569,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="576" y="259" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1578123203311" />
-    <state x="217" y="229" key="new project wizard" timestamp="1578190323818">
+    <state x="217" y="229" key="new project wizard" timestamp="1578191915641">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="217" y="229" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1578190323818" />
+    <state x="217" y="229" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1578191915641" />
     <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1578138799554">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
