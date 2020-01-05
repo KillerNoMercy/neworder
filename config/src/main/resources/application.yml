@@ -8,7 +8,7 @@ spring:
       server:
         git:
           uri: https://github.com/KillerNoMercy/neworder.git
-          search-paths: /respo
+          search-paths: respo/dev
           username: KillerNoMercy
           password: zsl317309
       label: master

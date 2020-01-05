@@ -1,7 +1,9 @@
 spring:
   cloud:
     config:
-      uri: https://github.com/KillerNoMercy/neworder.git
+      uri: http://localhost:8888
       profile: dev
       name: user
       label: master
+  jpa:
+    database-platform: org.hibernate.dialect.MySQLDialect
