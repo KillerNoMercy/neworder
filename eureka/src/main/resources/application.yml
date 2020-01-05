@@ -1,11 +1,7 @@
-server:
-  port: 8761
 spring:
-  application:
-    name: eureka
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:8761/eureka/
-    fetch-registry: false
-    register-with-eureka: false
+  cloud:
+    config:
+      uri: https://github.com/KillerNoMercy/neworder.git
+      profile: dev
+      name: eureka
+      label: master

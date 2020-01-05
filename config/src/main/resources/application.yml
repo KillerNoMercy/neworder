@@ -7,10 +7,10 @@ spring:
     config:
       server:
         git:
-          uri:
-          search-paths:
-          username:
-          password:
+          uri: https://github.com/KillerNoMercy/neworder.git
+          search-paths: /respo
+          username: KillerNoMercy
+          password: zsl317309
       label: master
 eureka:
   client:

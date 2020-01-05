@@ -1,0 +1,16 @@
+server:
+  port: 9010
+spring:
+  application:
+    name: user
+  datasource:
+    url: jdbc:mysql://localhost:3306/neworder?characterEncoding=utf-8&useSSL=false
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: zsl317309
+  redis:
+    host: localhost
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
