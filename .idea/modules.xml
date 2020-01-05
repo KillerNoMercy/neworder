@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/config/config.iml" filepath="$PROJECT_DIR$/config/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependencies/dependencies.iml" filepath="$PROJECT_DIR$/dependencies/dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/neworder.iml" filepath="$PROJECT_DIR$/.idea/neworder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order/neworder-order-client/neworder-order-client.iml" filepath="$PROJECT_DIR$/order/neworder-order-client/neworder-order-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order/neworder-order-common/neworder-order-common.iml" filepath="$PROJECT_DIR$/order/neworder-order-common/neworder-order-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order/neworder-order-server/neworder-order-server.iml" filepath="$PROJECT_DIR$/order/neworder-order-server/neworder-order-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product/neworder-product-client/neworder-product-client.iml" filepath="$PROJECT_DIR$/product/neworder-product-client/neworder-product-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product/neworder-product-common/neworder-product-common.iml" filepath="$PROJECT_DIR$/product/neworder-product-common/neworder-product-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product/neworder-product-server/neworder-product-server.iml" filepath="$PROJECT_DIR$/product/neworder-product-server/neworder-product-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user/neworder-user-client/neworder-user-client.iml" filepath="$PROJECT_DIR$/user/neworder-user-client/neworder-user-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user/neworder-user-common/neworder-user-common.iml" filepath="$PROJECT_DIR$/user/neworder-user-common/neworder-user-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user/neworder-user-server/neworder-user-server.iml" filepath="$PROJECT_DIR$/user/neworder-user-server/neworder-user-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order/order.iml" filepath="$PROJECT_DIR$/order/order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product/product.iml" filepath="$PROJECT_DIR$/product/product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user/user.iml" filepath="$PROJECT_DIR$/user/user.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="neworder-product-server" />
+        <module name="neworder-user-client" />
+        <module name="neworder-product-client" />
+        <module name="neworder-order-common" />
+        <module name="eureka" />
+        <module name="config" />
+        <module name="neworder-user-common" />
+        <module name="neworder-product-common" />
+        <module name="neworder-order-client" />
+        <module name="neworder-user-server" />
+        <module name="neworder-order-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="config" target="1.8" />
+      <module name="dependencies" target="1.8" />
+      <module name="eureka" target="1.8" />
+      <module name="neworder-order-client" target="1.8" />
+      <module name="neworder-order-common" target="1.8" />
+      <module name="neworder-order-server" target="1.8" />
+      <module name="neworder-product-client" target="1.8" />
+      <module name="neworder-product-common" target="1.8" />
+      <module name="neworder-product-server" target="1.8" />
+      <module name="neworder-user-client" target="1.8" />
+      <module name="neworder-user-common" target="1.8" />
+      <module name="neworder-user-server" target="1.8" />
+      <module name="order" target="1.8" />
+      <module name="product" target="1.8" />
+      <module name="user" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="config" options="" />
+      <module name="eureka" options="" />
+      <module name="neworder-order-client" options="" />
+      <module name="neworder-order-server" options="" />
+      <module name="neworder-product-client" options="" />
+      <module name="neworder-product-server" options="" />
+      <module name="neworder-user-client" options="" />
+      <module name="neworder-user-common" options="" />
+      <module name="neworder-user-server" options="" />
+      <module name="order" options="" />
+      <module name="product" options="" />
+      <module name="user" options="" />
+    </option>
+  </component>
+</project>

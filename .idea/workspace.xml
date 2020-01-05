@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc5c835d-d39f-4602-8cc3-4034fc8ef48a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHome" value="$USER_HOME$/developments/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VqI1zLSOh7Rzcr0Xl7qHYqRDec" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/order/neworder-order-server/src/main/java/com/fan/neworderOrderServer" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.fan.neworderOrderServer.controller" />
+      <recent name="com.fan.neworderUserClient.feign" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.fan.neworderOrderServer.dto" />
+      <recent name="com.fan.order.vo" />
+      <recent name="com.fan.user.vo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/order/neworder-order-server/src/main/java/com/fan/neworderOrderServer" />
+      <recent name="$PROJECT_DIR$/product/neworder-product-server/src/main/java/com/fan/neworderProductServer" />
+      <recent name="$PROJECT_DIR$/user/neworder-user-server/src/main/java/com/fan/neworderUserServer" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.NeworderOrderServerApplication">
+    <configuration name="NeworderOrderServerApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="neworder-order-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fan.neworderOrderServer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fan.neworderOrderServer" />
+      <option name="MAIN_CLASS_NAME" value="com.fan.neworderOrderServer.NeworderOrderServerApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="product" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fan.product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fan.product" />
+      <option name="MAIN_CLASS_NAME" value="com.fan.product.ProductApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fan.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fan.user" />
+      <option name="MAIN_CLASS_NAME" value="com.fan.user.UserApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserClientTest.checkToken" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="neworder-user-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fan.neworderUserClient.feign.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fan.neworderUserClient.feign" />
+      <option name="MAIN_CLASS_NAME" value="com.fan.neworderUserClient.feign.UserClientTest" />
+      <option name="METHOD_NAME" value="checkToken" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NeworderConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fan.neworderconfig.NeworderConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NeworderEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fan.newordereureka.NeworderEurekaApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NeworderOrderClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="neworder-order-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fan.neworderOrderClient.NeworderOrderClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NeworderOrderCommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="neworder-order-common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fan.neworderOrderCommon.NeworderOrderCommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NeworderOrderServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="neworder-order-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fan.neworderOrderServer.NeworderOrderServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NeworderProductClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="neworder-product-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fan.neworderProductClient.NeworderProductClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NeworderProductCommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="neworder-product-common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fan.neworderProductCommon.NeworderProductCommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NeworderProductServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="neworder-product-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fan.neworderProductServer.NeworderProductServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NeworderUserClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="neworder-user-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fan.neworderUserClient.NeworderUserClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NeworderUserCommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="neworder-user-common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fan.neworderUserCommon.NeworderUserCommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NeworderUserServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="neworder-user-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fan.neworderUserServer.NeworderUserServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fan.order.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="product" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fan.product.ProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fan.user.UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.961" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8088/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_Default_(Template)_Project" />
+        <option name="HTTP_PORT" value="8088" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="65055" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ProductApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.UserApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.UserClientTest.checkToken" />
+      <item itemvalue="JUnit.NeworderOrderServerApplicationTests.contextLoads" />
+      <item itemvalue="Spring Boot.NeworderEurekaApplication" />
+      <item itemvalue="Spring Boot.NeworderOrderClientApplication" />
+      <item itemvalue="Spring Boot.NeworderOrderCommonApplication" />
+      <item itemvalue="Spring Boot.NeworderOrderServerApplication" />
+      <item itemvalue="Spring Boot.NeworderProductClientApplication" />
+      <item itemvalue="Spring Boot.NeworderProductCommonApplication" />
+      <item itemvalue="Spring Boot.NeworderProductServerApplication" />
+      <item itemvalue="Spring Boot.NeworderUserClientApplication" />
+      <item itemvalue="Spring Boot.NeworderUserCommonApplication" />
+      <item itemvalue="Spring Boot.NeworderUserServerApplication" />
+      <item itemvalue="Spring Boot.OrderApplication" />
+      <item itemvalue="Spring Boot.ProductApplication" />
+      <item itemvalue="Spring Boot.UserApplication" />
+      <item itemvalue="Spring Boot.NeworderConfigApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.NeworderOrderServerApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.UserClientTest.checkToken" />
+        <item itemvalue="JUnit.UserApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.ProductApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.22001243" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc5c835d-d39f-4602-8cc3-4034fc8ef48a" name="Default Changelist" comment="" />
+      <created>1577973986719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577973986719</updated>
+      <workItem from="1577973988257" duration="933000" />
+      <workItem from="1578011482367" duration="31922000" />
+      <workItem from="1578104959024" duration="8658000" />
+      <workItem from="1578122203384" duration="13496000" />
+      <workItem from="1578189740537" duration="880000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="190" key="#Notifications" timestamp="1578104993942">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="190" key="#Notifications/0.0.1680.1050@0.0.1680.1050" timestamp="1578104993942" />
+    <state x="440" y="190" key="#Project_Structure" timestamp="1578190335360">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="190" key="#Project_Structure/0.0.1680.1050@0.0.1680.1050" timestamp="1578190335360" />
+    <state x="578" y="287" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1578016327225">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="578" y="287" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1578016327225" />
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578051414432">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1578051414432" />
+    <state x="653" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1578108048427">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="653" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1578108048427" />
+    <state x="578" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578016509082">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="578" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1578016509082" />
+    <state width="1638" height="363" key="GridCell.Tab.0.bottom" timestamp="1578150461952">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1578150461952" />
+    <state width="1254" height="296" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1578138358366" />
+    <state width="1638" height="363" key="GridCell.Tab.0.center" timestamp="1578150461950">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1578150461950" />
+    <state width="1254" height="296" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1578138358362" />
+    <state width="1638" height="363" key="GridCell.Tab.0.left" timestamp="1578150461949">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1578150461949" />
+    <state width="1254" height="296" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1578138358360" />
+    <state width="1638" height="363" key="GridCell.Tab.0.right" timestamp="1578150461951">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1578150461951" />
+    <state width="1254" height="296" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1578138358364" />
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom" timestamp="1578150461954">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1578150461954" />
+    <state width="1254" height="296" key="GridCell.Tab.1.bottom/0.23.1680.960@0.23.1680.960" timestamp="1578140682563" />
+    <state width="1638" height="363" key="GridCell.Tab.1.center" timestamp="1578150461953">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1578150461953" />
+    <state width="1254" height="296" key="GridCell.Tab.1.center/0.23.1680.960@0.23.1680.960" timestamp="1578140682561" />
+    <state width="1638" height="363" key="GridCell.Tab.1.left" timestamp="1578150461952">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1578150461952" />
+    <state width="1254" height="296" key="GridCell.Tab.1.left/0.23.1680.960@0.23.1680.960" timestamp="1578140682560" />
+    <state width="1638" height="363" key="GridCell.Tab.1.right" timestamp="1578150461954">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1578150461954" />
+    <state width="1254" height="296" key="GridCell.Tab.1.right/0.23.1680.960@0.23.1680.960" timestamp="1578140682563" />
+    <state width="1254" height="296" key="GridCell.Tab.2.bottom" timestamp="1578141175728">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1254" height="296" key="GridCell.Tab.2.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1578141175728" />
+    <state width="1254" height="296" key="GridCell.Tab.2.bottom/0.23.1680.960@0.23.1680.960" timestamp="1578138358373" />
+    <state width="1254" height="296" key="GridCell.Tab.2.center" timestamp="1578141175726">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1254" height="296" key="GridCell.Tab.2.center/0.0.1680.1050@0.0.1680.1050" timestamp="1578141175726" />
+    <state width="1254" height="296" key="GridCell.Tab.2.center/0.23.1680.960@0.23.1680.960" timestamp="1578138358371" />
+    <state width="1254" height="296" key="GridCell.Tab.2.left" timestamp="1578141175725">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1254" height="296" key="GridCell.Tab.2.left/0.0.1680.1050@0.0.1680.1050" timestamp="1578141175725" />
+    <state width="1254" height="296" key="GridCell.Tab.2.left/0.23.1680.960@0.23.1680.960" timestamp="1578138358370" />
+    <state width="1254" height="296" key="GridCell.Tab.2.right" timestamp="1578141175727">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1254" height="296" key="GridCell.Tab.2.right/0.0.1680.1050@0.0.1680.1050" timestamp="1578141175727" />
+    <state width="1254" height="296" key="GridCell.Tab.2.right/0.23.1680.960@0.23.1680.960" timestamp="1578138358372" />
+    <state x="327" y="106" key="SettingsEditor" timestamp="1578109506918">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="327" y="106" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1578109506918" />
+    <state width="840" height="525" key="XDebugger.FullValuePopup" timestamp="1578123339812">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="840" height="525" key="XDebugger.FullValuePopup/0.0.1680.1050@0.0.1680.1050" timestamp="1578123339812" />
+    <state x="576" y="259" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1578123203311">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="576" y="259" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1578123203311" />
+    <state x="217" y="229" key="new project wizard" timestamp="1578190323818">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="217" y="229" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1578190323818" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1578138799554">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1578138799554" />
+  </component>
+</project>
